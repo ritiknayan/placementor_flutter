@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201595012225",
+    "project_id": "placementordashbord",
+    "storage_bucket": "placementordashbord.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201595012225:android:58e5767780bd851aa93980",
+        "android_client_info": {
+          "package_name": "com.example.placementor_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201595012225-qr0psfsc3ked1ac3iqhd5jcaef07hn19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkppQ2ouOu6sVFxDrvMswslWdY0xwitA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201595012225-qr0psfsc3ked1ac3iqhd5jcaef07hn19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
